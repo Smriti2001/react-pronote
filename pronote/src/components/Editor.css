@@ -1,0 +1,25 @@
+.container{
+    margin:0px;
+    padding:0px;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    min-height: 100%;
+}
+.input-text{
+    width:500px;
+    height:500px;
+    border:1px solid black;
+    font-size: large;
+    padding:5px;
+}
+.output-text{
+    width:500px;
+    height:500px;
+    background-color: rgb(124, 24, 155);
+    box-shadow: 0 0 10px #222;
+    word-wrap: break-word;
+    font-size: large;
+    text-align: left;
+    padding:5px;
+}
